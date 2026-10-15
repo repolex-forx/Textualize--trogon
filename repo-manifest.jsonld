@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Textualize/trogon/commit/eaa9e68c403cae6aff0a80957d8876b284fd76b0",
       "git:hexsha": "eaa9e68c403cae6aff0a80957d8876b284fd76b0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Textualize/trogon/commit/fbb0c9ce706bc6a16e96e71011e004cb1d4484f7",
